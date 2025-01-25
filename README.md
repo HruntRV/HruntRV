@@ -10,19 +10,26 @@ I'm a passionate Python Django backend developer with a strong interest in build
 <li><b>Front-End Skills:</b> Proficient in <b>HTML</b> and <b>CSS</b>, and currently learning more advanced front-end tools.</li>
 </ul>
 🚀<b>Tools & Technologies</b>
-<ul>
-<li><b>Languages:</b> Python, SQL</li>
-<li><b>Frameworks:</b> Django</li>
-<li><b>Databases:</b> SQLite, PostgreSQL</li>
+<p><ul>
+<li><b>Languages:</b> **Python**, (**SQL)</li>
+<li><b>Frameworks:</b> `Django`</li>
+<li><b>Databases:</b> `SQLite`, `PostgreSQ`L</li>
 <li><b>Task Management:</b> Celery, Redis</li>
 <li><b>Version Control:</b> Git</li>
-<li><b>Learning:</b> JavaScript</li>
+<li><b>Learning:</b> Django REST framework, JavaScript</li>
 </ul>
 🎯<b>Goals</b>
-<ul>
+<p><ul>
 <li>Deepen my understanding of front-end development to enhance my ability to collaborate on full-stack projects.</li>
 <li>Continue building dynamic, reliable, and scalable applications using Django.</li>
 <li>Explore new technologies that can complement my development skills.</li>
 </ul>
 🌍 <b>Let's Connect</b>
-I'm always open to collaborating on exciting projects or discussing ideas. Feel free to check out my repositories and connect with me!
+<p>I'm always open to collaborating on exciting projects or discussing ideas. Feel free to check out my repositories and connect with me!
+## 🌟 What I Do
+- **Backend Development:** Creating robust and scalable applications using **Django**.
+- **Database Management:** Experienced with **SQLite** and **PostgreSQL**.
+- **Task Queues:** Familiar with **Redis** and **Celery** for asynchronous processing.
+- **Front-End Skills:** Proficient in **HTML** and **CSS**, and currently learning more advanced front-end frameworks and tools.
+
+---
